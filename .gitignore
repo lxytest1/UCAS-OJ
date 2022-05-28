@@ -9,3 +9,5 @@ hw2/test.c
 hw2/test (2).c
 
 hw3/*.exe
+
+.vscode/
